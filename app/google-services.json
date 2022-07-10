@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "853589775275",
+    "firebase_url": "https://nested-recycler-view-76d76-default-rtdb.firebaseio.com",
+    "project_id": "nested-recycler-view-76d76",
+    "storage_bucket": "nested-recycler-view-76d76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853589775275:android:ebf42fea848b43fbe2b8ee",
+        "android_client_info": {
+          "package_name": "com.example.lazy_loading.Activities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853589775275-vc7bf7lahv3ofm8avqi81jdr3lpno0n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2W0UstEVGs_H9CjFGoBI4OemcUaJHNzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853589775275-vc7bf7lahv3ofm8avqi81jdr3lpno0n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853589775275:android:9179b57cfe1c5219e2b8ee",
+        "android_client_info": {
+          "package_name": "com.example.nested_recyclerview_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853589775275-vc7bf7lahv3ofm8avqi81jdr3lpno0n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2W0UstEVGs_H9CjFGoBI4OemcUaJHNzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853589775275-vc7bf7lahv3ofm8avqi81jdr3lpno0n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
